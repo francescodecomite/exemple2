@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="gardnerdecoupebois.svg"
+   id="svg76"
+   version="1.1"
+   viewBox="0 0 1000 1000">
+  <metadata
+     id="metadata82">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs80" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg76"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:cy="282.18876"
+     inkscape:cx="-28.957033"
+     inkscape:zoom="1.2020815"
+     showgrid="false"
+     id="namedview78"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <rect
+     style="stroke-width:0.776495;stroke:#00ff00;stroke-opacity:1"
+     id="rect66"
+     stroke="#ff0000"
+     fill="none"
+     height="190.99261"
+     width="229.81737"
+     y="69.424179"
+     x="48.679573" />
+  <g
+     style="stroke:#0000ff;stroke-opacity:1"
+     id="g956">
+    <polygon
+       style="stroke:#0000ff;stroke-opacity:1"
+       points="50,150 50,100 150,100 150,50 50,50 50,0 0,0 0,150 "
+       fill="none"
+       stroke="#0000ff"
+       id="polygon68"
+       transform="matrix(0.34719805,-0.69454917,0.69454917,0.34719805,154.79447,191.89155)" />
+    <polygon
+       style="stroke:#0000ff;stroke-opacity:1"
+       points="150,150 150,50 50,50 50,0 0,0 0,100 100,100 100,150 "
+       fill="none"
+       stroke="#00ff00"
+       id="polygon70"
+       transform="matrix(0.34719805,-0.69454917,-0.69454917,-0.34719805,120.2981,249.06663)" />
+    <polygon
+       style="stroke:#0000ff;stroke-opacity:1"
+       points="100,100 150,100 150,50 50,50 50,0 0,0 0,100 50,100 50,150 100,150 "
+       fill="none"
+       stroke="#ffa500"
+       id="polygon72"
+       transform="matrix(-0.69454917,-0.34719805,-0.34719805,0.69454917,246.15802,91.435769)" />
+    <polygon
+       style="stroke:#0000ff;stroke-opacity:1"
+       points="150,50 200,50 200,0 0,0 0,50 100,50 100,100 150,100 "
+       fill="none"
+       stroke="#000000"
+       id="polygon74"
+       transform="matrix(0,0.77649536,-0.77649536,0,380.74553,87.270945)" />
+  </g>
+  <rect
+     ry="33.800385"
+     style="stroke-width:1.14171;stroke:#00ff00;stroke-opacity:1"
+     x="29.395988"
+     y="38.923733"
+     width="376.57104"
+     height="251.9935"
+     fill="none"
+     stroke="#ff0000"
+     id="rect66-2" />
+  <rect
+     id="rect66-2-7"
+     stroke="#ff0000"
+     fill="none"
+     height="251.9935"
+     width="376.57104"
+     y="302.00018"
+     x="29.635313"
+     style="stroke-width:1.14171;stroke:#00ff00;stroke-opacity:1"
+     ry="33.800385" />
+</svg>
